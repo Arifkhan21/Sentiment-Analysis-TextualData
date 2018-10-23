@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 import sys
 sys.setdefaultencoding('utf8')
 
-
+# bro, I told you I'm an Android Developer, Please give me Java Stuff
 # In[5]:
 
 
